@@ -85,3 +85,21 @@ Several stablecoins are issued and used on the Stellar network, with prominent e
 *   **Enhanced Accessibility:** Stablecoins on Stellar provide access to a wider range of financial services and opportunities for individuals and businesses.
 *   **Integration with DeFi:** Stellar's support for stablecoins makes it a crucial platform for decentralized finance (DeFi) applications.
 *   **Cross-Border Payments:** Stablecoins on Stellar can facilitate efficient and cost-effective cross-border transactions.
+
+---
+
+가상자산 스텔라루멘(XLM)이 이틀간 약 25% 급등하며 투자자들의 이목을 끌고 있다. 업비트 기준으로 7월 12일 약 545원에 거래되던 XLM은 13일 675원을 돌파했으며, 14일 오전 현재 680원 안팎에서 거래 중이다. 글로벌 주요 거래소에서는 같은 기간 0.25달러에서 0.48달러로 90% 가까운 상승률을 기록하기도 했지만, 국내 시장에서는 이보다 낮은 수준의 상승세를 보였다.
+
+이번 급등의 주요 원인은 글로벌 결제 기업 페이팔(PayPal)의 자사 스테이블코인 'PYUSD'가 스텔라 네트워크에도 발행될 예정이라는 소식이다. 기존 이더리움과 솔라나에 이어 스텔라가 지원 네트워크에 포함되면서, 실생활 결제 수단으로서의 활용 가능성이 부각됐다. 이에 따라 XLM의 수요와 기대감이 단기간에 높아진 것으로 풀이된다.
+
+또한 스텔라 재단이 준비 중인 네트워크 업그레이드 ‘Protocol 23’도 투자 심리에 긍정적인 영향을 미쳤다. 해당 업그레이드를 통해 스마트 계약 기능이 도입되며, 자체 플랫폼 ‘소로반(Soroban)’이 본격 운영에 들어갈 예정이다. 단순 송금 네트워크에 머물렀던 스텔라가 탈중앙화 금융(DeFi) 생태계로의 진입을 예고한 셈이다.
+
+기술적 분석에서도 긍정적인 신호가 나타났다. 지난 6월 저점 이후 두 차례 반등을 통해 더블 바텀 패턴을 형성한 XLM은 주요 저항선을 돌파하며 강한 매수세가 유입됐다. 선물 시장에서도 XLM 관련 미결제약정이 3억 달러를 넘어서며, 투자자들의 적극적인 포지셔닝이 확인되고 있다.
+
+실사용 지표 또한 상승세를 뒷받침하고 있다. 최근 스텔라 기반 스테이블코인의 공급량과 총예치금(TVL)이 꾸준히 증가하고 있으며, 활성 주소 수와 트랜잭션 처리량도 확대되는 추세다. 이는 기술적 기대감뿐만 아니라 실질적인 사용 기반 확대가 동시에 진행되고 있음을 시사한다.
+
+한편, XLM은 한 달 전 대비 약 85.9% 상승세를 기록했다. 6월 14일 기준 업비트에서 XLM은 약 366원 수준에 머물렀으나, 7월 14일 현재 680원 안팎까지 올랐다. 이는 한 달 사이 두 배 가까이 급등한 결과로, 비트코인이 사상 최고가를 경신하면서 함께 상승한 알트코인 전반의 분위기를 반영한 것으로 해석된다.
+
+시장 전문가들은 이번 급등이 장기적인 전환점이 될 가능성을 제시하면서도, 단기 급등 이후에는 차익 실현 매물로 인한 가격 변동성 확대 가능성에도 유의해야 한다고 조언했다.
+
+출처 : MS TODAY(https://www.mstoday.co.kr)
