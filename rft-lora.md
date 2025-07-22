@@ -1,4 +1,4 @@
-**Reinforcement fine-tuning** with low-rank methods, like LoRA (Low-Rank Adaptation), 
+**Reinforcement fine-tuning with low-rank** methods, like LoRA (Low-Rank Adaptation), 
 offers an efficient way to adapt large language models (LLMs) for specific tasks using reinforcement learning (RL).
 
 This approach reduces computational and memory requirements compared to full fine-tuning by focusing on 
