@@ -48,6 +48,7 @@ LoRA-based fine-tuning can achieve performance comparable to full fine-tuning wh
 LoRA is compatible with various RL algorithms and can be integrated into existing RL frameworks. 
 
 ## Example:
+
 In a research paper, researchers evaluated RL algorithms using LoRA-based fine-tuning. 
 They found that LoRA enabled them to fine-tune large language models for reasoning tasks while using 
 significantly less memory than traditional full fine-tuning. 
@@ -57,6 +58,7 @@ with LoRA can match the performance of standard RLHF while using less memory and
 
 In summary, reinforcement fine-tuning with LoRA provides a powerful and efficient way 
 to adapt LLMs to specific tasks, making them more accessible and practical for a wider range of applications. 
+
 ---
 
 **Reinforcement fine-tuning with low-rank adaptation (LoRA) and Group Relative Policy Optimization (GRPO)** 
